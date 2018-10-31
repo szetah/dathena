@@ -4,27 +4,27 @@ An application to upload and label document for searching and compute the docume
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You can read documentation about this application from [here](https://github.com/szetah/dathena/blob/master/README.md)
 
 ### Prerequisites
 
-Before starting, make sure you have install [Compose](https://docs.docker.com/compose/install/#prerequisites) with below link
+Before starting, make sure you have install [Compose](https://docs.docker.com/compose/install/#prerequisites)
 
-## Running the tests
+## Testing
+
+#### Automated test case for API
 
 To run the automated test:-
 
 `python manage.py test documents.api.tests`
 
-Automated test case for API includes below :-
-
 * **test_upload_document** - upload a document
 * **test_rud_document** - retrieve, update or delete a document
 * **test_search_document** - search document with tags
 
-## Use Postman to test:-
+#### Manual test with Postman
 
-In order to use [Postman](https://www.getpostman.com/apps) app to test, please download the app from :-
+You are recommended to download and use [Postman](https://www.getpostman.com/apps) app for manual test
 
 Some initial data is loaded for testing purposes and you can use it from below :-
 
@@ -49,7 +49,7 @@ email, excel, others, pdf, powerpoint, word
 ##### user
 `admin`
 
-##### endpoints
+## Endpoints
 
 * http://127.0.0.1:8000/documents/upload/
   - PUT
@@ -60,7 +60,7 @@ email, excel, others, pdf, powerpoint, word
             "language": "en",
             "document_type": "pdf"
             "user": "admin",
-            "tags": ["tax", "audit", "2018"]
+            "tags": "tax, audit, 2018"
             "file": <attachfile>,
         }
         ```
@@ -68,7 +68,24 @@ email, excel, others, pdf, powerpoint, word
 * http://127.0.0.1:8000/documents/<id>
   - GET
   - PATCH
+    - Example 1
+        ```
+        {
+            "keywords": "2017",
+            "document_type": "word"
+        }
+        ```
   - PUT
+    - Example 1
+        ```
+        {
+            "confidentiality": "public",
+            "language": "en",
+            "document_type": "others"
+            "user": "admin",
+            "file": <attachfile>,
+        }
+        ```
   - DELETE
 
 * http://127.0.0.1:8000/documents/search/
