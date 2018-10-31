@@ -1,0 +1,592 @@
+[
+  {
+    "pk": 1,
+    "model": "documents.confidentiality",
+    "fields": {
+        "name": "Top Secret",
+        "short_name": "topsecret",
+        "authority_level": 90
+    }
+  },
+  {
+    "pk": 2,
+    "model": "documents.confidentiality",
+    "fields": {
+        "name": "Secret",
+        "short_name": "secret",
+        "authority_level": 80
+    }
+  },
+  {
+    "pk": 3,
+    "model": "documents.confidentiality",
+    "fields": {
+        "name": "Confidential",
+        "short_name": "confidential",
+        "authority_level": 70
+    }
+  },
+  {
+    "pk": 4,
+    "model": "documents.confidentiality",
+    "fields": {
+        "name": "Private",
+        "short_name": "private",
+        "authority_level": 60
+    }
+  },
+  {
+    "pk": 5,
+    "model": "documents.confidentiality",
+    "fields": {
+        "name": "Internal",
+        "short_name": "internal",
+        "authority_level": 50
+    }
+  },
+  {
+    "pk": 6,
+    "model": "documents.confidentiality",
+    "fields": {
+        "name": "Public",
+        "short_name": "public",
+        "authority_level": 40
+    }
+  },
+  {
+    "pk": 1,
+    "model": "documents.documenttype",
+    "fields": {
+      "name": "Email",
+      "short_name": "email"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "documents.documenttype",
+    "fields": {
+      "name": "Excel",
+      "short_name": "excel"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "documents.documenttype",
+    "fields": {
+      "name": "Others",
+      "short_name": "others"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "documents.documenttype",
+    "fields": {
+      "name": "PDF",
+      "short_name": "pdf"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "documents.documenttype",
+    "fields": {
+      "name": "Power Point",
+      "short_name": "powerpoint"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "documents.documenttype",
+    "fields": {
+      "name": "Word",
+      "short_name": "word"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "documents.language",
+    "fields": {
+      "name": "Afrikaans",
+      "short_name": "af"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "documents.language",
+    "fields": {
+      "name": "Aragonese",
+      "short_name": "an"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "documents.language",
+    "fields": {
+      "name": "Arabic",
+      "short_name": "ar"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "documents.language",
+    "fields": {
+      "name": "Asturian",
+      "short_name": "ast"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "documents.language",
+    "fields": {
+      "name": "Belarusian",
+      "short_name": "be"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "documents.language",
+    "fields": {
+      "name": "Bulgarian",
+      "short_name": "bg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "documents.language",
+    "fields": {
+      "name": "Bengali",
+      "short_name": "bn"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "documents.language",
+    "fields": {
+      "name": "Breton",
+      "short_name": "br"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "documents.language",
+    "fields": {
+      "name": "Catalan",
+      "short_name": "ca"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "documents.language",
+    "fields": {
+      "name": "Czech",
+      "short_name": "cs"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "documents.language",
+    "fields": {
+      "name": "Welsh",
+      "short_name": "cy"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "documents.language",
+    "fields": {
+      "name": "Danish",
+      "short_name": "da"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "documents.language",
+    "fields": {
+      "name": "German",
+      "short_name": "de"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "documents.language",
+    "fields": {
+      "name": "Greek",
+      "short_name": "el"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "documents.language",
+    "fields": {
+      "name": "English",
+      "short_name": "en"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "documents.language",
+    "fields": {
+      "name": "Spanish",
+      "short_name": "es"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "documents.language",
+    "fields": {
+      "name": "Estonian",
+      "short_name": "et"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "documents.language",
+    "fields": {
+      "name": "Basque",
+      "short_name": "eu"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "documents.language",
+    "fields": {
+      "name": "Persian",
+      "short_name": "fa"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "documents.language",
+    "fields": {
+      "name": "Finnish",
+      "short_name": "fi"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "documents.language",
+    "fields": {
+      "name": "French",
+      "short_name": "fr"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "documents.language",
+    "fields": {
+      "name": "Irish",
+      "short_name": "ga"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "documents.language",
+    "fields": {
+      "name": "Gallegan",
+      "short_name": "gl"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "documents.language",
+    "fields": {
+      "name": "Hebrew",
+      "short_name": "he"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "documents.language",
+    "fields": {
+      "name": "Hindi",
+      "short_name": "hi"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "documents.language",
+    "fields": {
+      "name": "Croatian",
+      "short_name": "hr"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "documents.language",
+    "fields": {
+      "name": "Haitian",
+      "short_name": "ht"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "documents.language",
+    "fields": {
+      "name": "Hungarian",
+      "short_name": "hu"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "documents.language",
+    "fields": {
+      "name": "Indonesian",
+      "short_name": "id"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "documents.language",
+    "fields": {
+      "name": "Icelandic",
+      "short_name": "is"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "documents.language",
+    "fields": {
+      "name": "Italian",
+      "short_name": "it"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "documents.language",
+    "fields": {
+      "name": "Japanese",
+      "short_name": "ja"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "documents.language",
+    "fields": {
+      "name": "Korean",
+      "short_name": "ko"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "documents.language",
+    "fields": {
+      "name": "Lithuanian",
+      "short_name": "lt"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "documents.language",
+    "fields": {
+      "name": "Latvian",
+      "short_name": "lv"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "documents.language",
+    "fields": {
+      "name": "Macedonian",
+      "short_name": "mk"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "documents.language",
+    "fields": {
+      "name": "Malayalam",
+      "short_name": "ml"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "documents.language",
+    "fields": {
+      "name": "Malay",
+      "short_name": "ms"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "documents.language",
+    "fields": {
+      "name": "Maltese",
+      "short_name": "mt"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "documents.language",
+    "fields": {
+      "name": "Nepali",
+      "short_name": "ne"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "documents.language",
+    "fields": {
+      "name": "Dutch",
+      "short_name": "nl"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "documents.language",
+    "fields": {
+      "name": "Norwegian",
+      "short_name": "no"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "documents.language",
+    "fields": {
+      "name": "Occitan",
+      "short_name": "oc"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "documents.language",
+    "fields": {
+      "name": "Polish",
+      "short_name": "pl"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "documents.language",
+    "fields": {
+      "name": "Portuguese",
+      "short_name": "pt"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "documents.language",
+    "fields": {
+      "name": "Romanian",
+      "short_name": "ro"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "documents.language",
+    "fields": {
+      "name": "Russian",
+      "short_name": "ru"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "documents.language",
+    "fields": {
+      "name": "Slovak",
+      "short_name": "sk"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "documents.language",
+    "fields": {
+      "name": "Slovenian",
+      "short_name": "sl"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "documents.language",
+    "fields": {
+      "name": "Somali",
+      "short_name": "so"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "documents.language",
+    "fields": {
+      "name": "Albanian",
+      "short_name": "sq"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "documents.language",
+    "fields": {
+      "name": "Swedish",
+      "short_name": "sv"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "documents.language",
+    "fields": {
+      "name": "Swahili",
+      "short_name": "sw"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "documents.language",
+    "fields": {
+      "name": "Thai",
+      "short_name": "th"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "documents.language",
+    "fields": {
+      "name": "Tagalog",
+      "short_name": "tl"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "documents.language",
+    "fields": {
+      "name": "Turkish",
+      "short_name": "tr"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "documents.language",
+    "fields": {
+      "name": "Ukrainian",
+      "short_name": "uk"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "documents.language",
+    "fields": {
+      "name": "Urdu",
+      "short_name": "ur"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "documents.language",
+    "fields": {
+      "name": "Vietnamese",
+      "short_name": "vi"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "documents.language",
+    "fields": {
+      "name": "Chinese (China)",
+      "short_name": "zh-cn"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "documents.language",
+    "fields": {
+      "name": "Chinese (Taiwan)",
+      "short_name": "zh-tw"
+    }
+  }
+]

@@ -1,0 +1,1527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Do",
+				"Document\tclass"
+			],
+			[
+				"count_",
+				"count_document_type"
+			],
+			[
+				"count",
+				"count_language"
+			],
+			[
+				"do",
+				"DocumentType\tclass"
+			],
+			[
+				"Dom",
+				"DocumentSerializer\tclass"
+			],
+			[
+				"ser",
+				"serializer_class"
+			],
+			[
+				"Re",
+				"RetrieveUpdateDestroyAPIView\tmodule"
+			],
+			[
+				"Lan",
+				"Language\tclass"
+			],
+			[
+				"condi",
+				"Confidentiality\tclass"
+			],
+			[
+				"Doc",
+				"DocumentTypeSerializer\tclass"
+			],
+			[
+				"Con",
+				"ConfidentialitySerializer\tclass"
+			],
+			[
+				"Docu",
+				"DocumentType\tclass"
+			],
+			[
+				"get_comm",
+				"get_commission_type"
+			],
+			[
+				"pro",
+				"profile\tmodule"
+			],
+			[
+				"comm",
+				"commission_type\tstatement"
+			],
+			[
+				"CO",
+				"COMMISSION_ENDORSEMENT\tstatement"
+			],
+			[
+				"commission_ce",
+				"COMMISSION_CANCEL\tstatement"
+			],
+			[
+				"commission_re",
+				"COMMISSION_RENEWAL"
+			],
+			[
+				"def",
+				"default_field"
+			],
+			[
+				"COM",
+				"COMMISSION_RESELLER\tstatement"
+			],
+			[
+				"commis",
+				"commission_list"
+			],
+			[
+				"paren",
+				"parent_commission_list\tstatement"
+			],
+			[
+				"com",
+				"commission_list\tparam"
+			],
+			[
+				"commissio",
+				"commission_list"
+			],
+			[
+				"ob",
+				"object_id"
+			],
+			[
+				"partner_s",
+				"partners_schemes\tparam"
+			],
+			[
+				"AMO",
+				"AMOUNT_TYPE_BASE\tstatement"
+			],
+			[
+				"Com",
+				"CommissionTree\tclass"
+			],
+			[
+				"pa",
+				"partners_schemes\tparam"
+			],
+			[
+				"creat",
+				"created_at"
+			],
+			[
+				"par",
+				"partner_path\tstatement"
+			],
+			[
+				"value",
+				"values_list"
+			],
+			[
+				"parent_c",
+				"parent_commission_amount\tstatement"
+			],
+			[
+				"rev",
+				"reverse_calculate"
+			],
+			[
+				"ROU",
+				"ROUND_HALF_UP\tinstance"
+			],
+			[
+				"Commissio",
+				"CommissionScheme\tclass"
+			],
+			[
+				"pricin",
+				"pricing_deviation"
+			],
+			[
+				"roo",
+				"root_published\tstatement"
+			],
+			[
+				"Comm",
+				"Commission\tmodule"
+			],
+			[
+				"recurr",
+				"recurrence_frequency\tstatement"
+			],
+			[
+				"re",
+				"recurrence_start"
+			],
+			[
+				"recu",
+				"recurrence_count"
+			],
+			[
+				"ref",
+				"refresh_from_db"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"rec",
+				"recurrence_count"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"Tr",
+				"TriggerManager\tmodule"
+			],
+			[
+				"Tri",
+				"TriggerManager\tstatement"
+			],
+			[
+				"AB",
+				"AbstractModelManager\tclass"
+			],
+			[
+				"reccur",
+				"recurrence_period\tstatement"
+			],
+			[
+				"part",
+				"partners\tstatement"
+			],
+			[
+				"version",
+				"version_data\tstatement"
+			],
+			[
+				"commi",
+				"commission\tstatement"
+			],
+			[
+				"is_",
+				"is_deduct_from_superior"
+			],
+			[
+				"repo",
+				"report_uuid"
+			],
+			[
+				"C",
+				"CommissionReport\tclass"
+			],
+			[
+				"mark",
+				"mark_report_status"
+			],
+			[
+				"Commis",
+				"Commission\tclass"
+			],
+			[
+				"upda",
+				"update_status\tstatement"
+			],
+			[
+				"STA",
+				"COMMISSION_REPORT_STATUSES\tstatement"
+			],
+			[
+				"bfo",
+				"before_uuids\tstatement"
+			],
+			[
+				"diff",
+				"diff_uuids"
+			],
+			[
+				"after",
+				"after_uuids"
+			],
+			[
+				"before",
+				"before_uuids\tstatement"
+			],
+			[
+				"test_",
+				"test_data_dict\tstatement"
+			],
+			[
+				"Gener",
+				"GenericAPIView\tmodule"
+			],
+			[
+				"aft",
+				"after_sum\tstatement"
+			],
+			[
+				"befo",
+				"before_sum\tstatement"
+			],
+			[
+				"policy",
+				"policy_version"
+			],
+			[
+				"lo",
+				"loading_amount"
+			],
+			[
+				"net_",
+				"net_load_amount"
+			],
+			[
+				"fo",
+				"formula\tstatement"
+			],
+			[
+				"poli",
+				"policy_version"
+			],
+			[
+				"af",
+				"after_count"
+			],
+			[
+				"pri",
+				"pricing_deviation"
+			],
+			[
+				"tota",
+				"total_report"
+			],
+			[
+				"partn",
+				"partner_scheme\tstatement"
+			],
+			[
+				"polic",
+				"policyversion"
+			],
+			[
+				"commission_t",
+				"commission_tree_position"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"get_ro",
+				"get_product"
+			],
+			[
+				"Comi",
+				"CommissionTreePosition\tclass"
+			],
+			[
+				"prorate",
+				"prorated_factor\tstatement"
+			],
+			[
+				"pricing",
+				"pricing_deviation\tstatement"
+			],
+			[
+				"previous",
+				"previous_quotation\tstatement"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"get",
+				"get_commissions\tfunction"
+			],
+			[
+				"get_",
+				"get_report\tfunction"
+			],
+			[
+				"Commission",
+				"CommissionReport\tclass"
+			],
+			[
+				"quer",
+				"query_date\tstatement"
+			],
+			[
+				"Li",
+				"ListModelMixin\tmodule"
+			],
+			[
+				"from",
+				"from_date\tparam"
+			],
+			[
+				"to",
+				"today_max\tstatement"
+			],
+			[
+				"today",
+				"today_min\tstatement"
+			],
+			[
+				"broker",
+				"broker_admin"
+			],
+			[
+				"Numb",
+				"NumberingMixin\tclass"
+			],
+			[
+				"pre",
+				"previous_amount\tstatement"
+			],
+			[
+				"commission_ne",
+				"COMMISSION_ENDORSEMENT\tstatement"
+			],
+			[
+				"cmm",
+				"commission_type"
+			],
+			[
+				"commiss",
+				"commission_type"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"AC",
+				"ACTIVE_REASONS\tstatement"
+			],
+			[
+				"query",
+				"queryset\tstatement"
+			],
+			[
+				"amount",
+				"amount_field\tstatement"
+			],
+			[
+				"sch",
+				"schemes\tstatement"
+			],
+			[
+				"con",
+				"contract"
+			],
+			[
+				"new",
+				"new_version\tstatement"
+			],
+			[
+				"partner_tre",
+				"partner_tree_position\tstatement"
+			],
+			[
+				"Coomm",
+				"CommissionSchemeTestCase\tclass"
+			],
+			[
+				"sche",
+				"scheme"
+			],
+			[
+				"this",
+				"this_partners_schemes\tstatement"
+			],
+			[
+				"cOM",
+				"COMMISSION_ENDORSEMENT\tstatement"
+			],
+			[
+				"thi",
+				"this_partners_schemes\tstatement"
+			],
+			[
+				"CM",
+				"COMMISSION_NEW\tstatement"
+			],
+			[
+				"last",
+				"last_version\tstatement"
+			],
+			[
+				"COMM",
+				"COMMISSION_CANCEL\tstatement"
+			],
+			[
+				"POl",
+				"PolicyVersion\tclass"
+			],
+			[
+				"activ",
+				"activation_function\tstatement"
+			],
+			[
+				"parn",
+				"partners"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"update",
+				"update_fields"
+			],
+			[
+				"udpat",
+				"update_fields"
+			],
+			[
+				"las",
+				"last_contract\tstatement"
+			],
+			[
+				"Polic",
+				"PolicyVersion\tclass"
+			],
+			[
+				"la",
+				"latest_quotation"
+			],
+			[
+				"conten",
+				"content_object\tparam"
+			],
+			[
+				"amou",
+				"amount_field\tstatement"
+			],
+			[
+				"Poli",
+				"PolicyVersion\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"file",
+				"File: Delete"
+			],
+			[
+				"fi",
+				"File: Delete"
+			],
+			[
+				"file ",
+				"File: Delete"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"gi",
+				"Git: Blame"
+			],
+			[
+				"file de",
+				"File: Delete"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"file re",
+				"File: Rename"
+			],
+			[
+				"GIT BL",
+				"Git: Blame"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git blma",
+				"Git: Blame"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Git: Blame"
+			],
+			[
+				"git ba",
+				"Git: Blame"
+			],
+			[
+				"git balm",
+				"Git: Blame"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryanho/Project/dathena",
+		"/Users/ryanho/Project/dathena/dathena",
+		"/Users/ryanho/Project/dathena/dathena/__pycache__",
+		"/Users/ryanho/Project/dathena/documents"
+	],
+	"file_history":
+	[
+		"/Users/ryanho/Project/dathena/dathena/urls.py",
+		"/Users/ryanho/Project/dathena/documents/tasks.py",
+		"/Users/ryanho/Project/dathena/documents/models.py",
+		"/Users/ryanho/Project/dathena/documents/api/serializers.py",
+		"/Users/ryanho/Project/dathena/dathena/celery.py",
+		"/Users/ryanho/Project/dathena/docker-compose.yml",
+		"/Users/ryanho/Project/dathena/run_celery.sh",
+		"/Users/ryanho/Project/dathena/documents/fixtures/document_initial_data.json",
+		"/Users/ryanho/Project/dathena/dathena/settings.py",
+		"/Users/ryanho/Project/dathena/dathena/__init__.py",
+		"/Users/ryanho/Project/dathena/documents/api/views.py",
+		"/Users/ryanho/Project/dathena/documents/api/urls.py",
+		"/Users/ryanho/Project/dathena/documents/admin.py",
+		"/Users/ryanho/Project/dathena/documents/migrations/0001_initial.py",
+		"/Users/ryanho/Project/dathena/run_django.sh",
+		"/Users/ryanho/Project/dathena/Dockerfile",
+		"/Users/ryanho/Project/dathena/documents/apps.py",
+		"/Users/ryanho/Project/dathena/documents/fixtures/language_labels.json",
+		"/Users/ryanho/Project/dathena/documents/fixtures/doctype_labels.json",
+		"/Users/ryanho/Project/dathena/requirements.txt",
+		"/Users/ryanho/Project/dathena/src/requirements.txt",
+		"/Users/ryanho/Downloads/Technical test - Python - 20181015/doctype_labels.json",
+		"/Users/ryanho/Downloads/Technical test - Python - 20181015/doctype_data.json",
+		"/Users/ryanho/Downloads/Technical test - Python - 20181015/confidentiality_data.json",
+		"/Users/ryanho/Downloads/Technical test - Python - 20181015/confidentiality_labels.json",
+		"/Users/ryanho/Project/insidious/InSurance/src/insurance/local_settings.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/api/v1/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/Dockerfile",
+		"/Users/ryanho/Project/insidious/InSurance/requirements/prod.txt",
+		"/Users/ryanho/Project/insidious/InSurance/requirements.txt",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/managers.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/models.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/tests.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/api/v1/urls.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/management/commands/initial_data_for_UBI.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/models.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/management/commands/initial_commission_settings.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/abc.txt",
+		"/Users/ryanho/Project/insidious/InSurance/src/initial_data_for_UBI.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/management/commands/initial_commission_settings_2.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0020_auto_20181004_0130.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/management/commands/regenerate_commission.py",
+		"/Users/ryanho/Downloads/PopcornTime/The.Little.Prince.2015.720p.BluRay.x264-RCDiVX[EtHD]/the.little.prince.2015.720p.bluray.x264-rcdivx[EtHD].srt",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0024_remove_commission_batch_history.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/123.txt",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/api/v1/tests/test_views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/services.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/migrations/0040_merge_20181009_1901.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/tasks.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/commissions/detail_js.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/commissions/search.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/admin.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/policies.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/activities/api/v1/tests/test_views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/commissions/inbox_js.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/commissions/detail.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/api/v1/serializers/base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/management/commands/trigger_report.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/policies/cancel.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v2/urls.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/services.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/core/api/v2/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v1/views/base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/managers.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v1/urls.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/mails/api/v1/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/wizards/purbeck/static/src/environments/environment.ts",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/urls.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/products/models.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/views/policies.py",
+		"/Users/ryanho/Project/insidious/InSurance/docs/API/i2go/html/swagger.json",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/mails/urls.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/views/contracts.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/management/commands/policy_term_patch_base_on_renewal_type.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v2/views/partners.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/commissions/urls.py",
+		"/usr/local/var/pyenv/versions/insurance/lib/python3.5/site-packages/reversion/models.py",
+		"/usr/local/var/pyenv/versions/insurance/lib/python3.5/site-packages/rest_framework/mixins.py",
+		"/usr/local/var/pyenv/versions/insurance/lib/python3.5/site-packages/rest_framework/generics.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/activities/models.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/core/api/v2/tests.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v2/urls.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/core/views/base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/core/api/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/partners/views/group.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0017_merge_20180913_0450.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/models.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/activities/migrations/0029_auto_20180829_0818.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/migrations/0036_auto_20180926_0254.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/partners/forms/sales_unit.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/partners/forms/sales_base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/views/quotations.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/admin.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/quotations/detail.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/quotations.py",
+		"/Users/ryanho/Desktop/insurance_memo.txt",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/bordereaux/api/v1/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/activities/api/v1/views/base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/core/utils.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/auths/managers.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/partners/forms/sales_person.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/auths/models.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/wizards/ubi/static/src/app/modules/shared/quote-display/quote-display.component.css",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/commissions/inbox.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/commissions/views.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/static/dashboards/js/custom-script.js",
+		"/Users/ryanho/Project/insidious/InSurance/src/wizards/peliwica/static/src/app/views/common/header-component/header-component.component.css",
+		"/Users/ryanho/Project/insidious/InSurance/src/dashboards/templates/dashboards/partials/stats_info.html",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/api/v1/serializers/__init__.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/core/testing_tools/api/mixins.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/versions.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/contracts.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v1/views/duplicate_check.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/activities/api/v1/serializers/base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/activities/api/v1/serializers/notes.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/templatetags/commission_tags.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/policies/management/commands/update_incomplete_orders_sales_accounts.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0014_auto_20180823_0815.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0013_auto_20180823_0810.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0010_auto_20180716_0322.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/migrations/0009_businesspartnerrole_is_active.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/management/commands/initial_data_for_partners.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v1/serializers/base.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/insurance/settings.py",
+		"/Users/ryanho/Project/insidious/InSurance/src/submodules/numbering/utils.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"broker_url",
+			"5672",
+			"autodiscover_tasks",
+			"DJANGO_SETTINGS_MODULE",
+			"OS.",
+			"'60'",
+			"OK')",
+			"count completed.')",
+			"this_language",
+			"confidentiality",
+			"Confidentiality",
+			"confidentiality",
+			"Confidentiality",
+			"confidentiality",
+			"code",
+			"@Ryan, 20.10.2018",
+			"required=True,",
+			"serializers.PrimaryKeyRelatedField(",
+			"class Meta:",
+			"many=True,",
+			"serializer.",
+			", ",
+			"doc_type",
+			"'name'",
+			"('short_name', models.CharField(max_length=255, unique=True, verbose_name='N",
+			"short_name = models.CharField(_('",
+			"'name',",
+			"short_name = ",
+			"pk=",
+			"confidentiality",
+			"Confidentiality",
+			"confidentiality",
+			".confidentiality",
+			"confidentiality",
+			"report",
+			"(models",
+			"class ",
+			"'pk',",
+			"DocumenetUpload",
+			"AttachmentSerializer",
+			"list_display",
+			"\"model\": ",
+			"\"pk\": ",
+			"unique=True,",
+			" unique=True",
+			", unique=True",
+			"top se",
+			"\"authority_level\": ",
+			"django",
+			"short_name",
+			"\"short_name\": ",
+			"\"name\": ",
+			"\"name\":",
+			"\"name\": ",
+			"\"name\"",
+			"\"id\": ",
+			"\"id\": \"1\",",
+			"\"name\":",
+			"auths",
+			"./",
+			"python3",
+			" = models",
+			"model = ",
+			"03.05.2018",
+			"model = ",
+			"= models.",
+			"models.",
+			" = ",
+			"(models.Model)",
+			"class ",
+			" = ",
+			"Confidentiality",
+			"confidentiality",
+			"confidentiality = ",
+			"FileUploadParser",
+			"Confidentiality",
+			", ",
+			"web",
+			"code"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "dathena.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"document migrat",
+				"documents/migrations/0001_initial.py"
+			],
+			[
+				"seting",
+				"dathena/settings.py"
+			],
+			[
+				"settings",
+				"dathena/settings.py"
+			],
+			[
+				"do models",
+				"documents/models.py"
+			],
+			[
+				"run dj",
+				"run_django.sh"
+			],
+			[
+				"setting",
+				"dathena/settings.py"
+			],
+			[
+				"prod",
+				"requirements/prod.txt"
+			],
+			[
+				"require",
+				"requirements.txt"
+			],
+			[
+				"docker",
+				"Dockerfile"
+			],
+			[
+				"local",
+				"src/insurance/local_settings.py"
+			],
+			[
+				"com api view",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"comm model",
+				"src/commissions/models.py"
+			],
+			[
+				"com api views",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"comm api view",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"com view ",
+				"src/commissions/views.py"
+			],
+			[
+				"comm models",
+				"src/commissions/models.py"
+			],
+			[
+				"loca",
+				"src/insurance/local_settings.py"
+			],
+			[
+				"abc ",
+				"src/abc.txt"
+			],
+			[
+				"ubi ",
+				"src/initial_data_for_UBI.py"
+			],
+			[
+				"com models",
+				"src/commissions/models.py"
+			],
+			[
+				"ubi",
+				"src/initial_data_for_UBI.py"
+			],
+			[
+				"comm tests",
+				"src/commissions/tests.py"
+			],
+			[
+				"commtests",
+				"src/commissions/tests.py"
+			],
+			[
+				"com test",
+				"src/commissions/tests.py"
+			],
+			[
+				"comm ini",
+				"src/commissions/management/commands/initial_commission_settings_2.py"
+			],
+			[
+				"po models",
+				"src/policies/models.py"
+			],
+			[
+				"com model",
+				"src/commissions/models.py"
+			],
+			[
+				"pol models",
+				"src/policies/models.py"
+			],
+			[
+				"abc",
+				"src/abc.txt"
+			],
+			[
+				"initia",
+				"src/commissions/management/commands/initial_commission_settings.py"
+			],
+			[
+				"com mange",
+				"src/commissions/managers.py"
+			],
+			[
+				"com mo",
+				"src/commissions/models.py"
+			],
+			[
+				"comm man",
+				"src/commissions/managers.py"
+			],
+			[
+				"com manager",
+				"src/commissions/managers.py"
+			],
+			[
+				"regene",
+				"src/commissions/management/commands/regenerate_commission.py"
+			],
+			[
+				"ocal",
+				"src/insurance/local_settings.py"
+			],
+			[
+				"comm 0024",
+				"src/commissions/migrations/0024_remove_commission_batch_history.py"
+			],
+			[
+				"123",
+				"src/123.txt"
+			],
+			[
+				"com tests",
+				"src/commissions/tests.py"
+			],
+			[
+				"com man",
+				"src/commissions/managers.py"
+			],
+			[
+				"comm rege",
+				"src/commissions/management/commands/regenerate_commission.py"
+			],
+			[
+				"poli model",
+				"src/policies/models.py"
+			],
+			[
+				"pol 0041",
+				"src/policies/migrations/0041_policyversion_search_attribute_vector.py"
+			],
+			[
+				"polo 0040",
+				"src/policies/migrations/0040_merge_20181009_1901.py"
+			],
+			[
+				"com task",
+				"src/commissions/tasks.py"
+			],
+			[
+				"comm view api",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"pol services",
+				"src/policies/services.py"
+			],
+			[
+				"polic ser",
+				"src/policies/api/v1/serializers/policies.py"
+			],
+			[
+				"comm manager",
+				"src/commissions/managers.py"
+			],
+			[
+				"comm renge",
+				"src/commissions/management/commands/regenerate_commission.py"
+			],
+			[
+				"comm test _v",
+				"src/commissions/api/v1/tests/test_views.py"
+			],
+			[
+				"com initial set",
+				"src/commissions/management/commands/initial_commission_settings.py"
+			],
+			[
+				"comm manage",
+				"src/commissions/managers.py"
+			],
+			[
+				"comm manag",
+				"src/commissions/managers.py"
+			],
+			[
+				"comm task",
+				"src/commissions/tasks.py"
+			],
+			[
+				"com taks",
+				"src/commissions/tasks.py"
+			],
+			[
+				"com test view",
+				"src/commissions/api/v1/tests/test_views.py"
+			],
+			[
+				"test_view",
+				"src/activities/api/v1/tests/test_views.py"
+			],
+			[
+				"comm mang",
+				"src/commissions/managers.py"
+			],
+			[
+				"comm test",
+				"src/commissions/tests.py"
+			],
+			[
+				"comm test_view",
+				"src/commissions/api/v1/tests/test_views.py"
+			],
+			[
+				"comm apiview",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"com view",
+				"src/commissions/views.py"
+			],
+			[
+				"comm api tesT_view",
+				"src/commissions/api/v1/tests/test_views.py"
+			],
+			[
+				"comm tasks",
+				"src/commissions/tasks.py"
+			],
+			[
+				"policies models",
+				"src/policies/models.py"
+			],
+			[
+				"comm mana",
+				"src/commissions/managers.py"
+			],
+			[
+				"com admin",
+				"src/commissions/admin.py"
+			],
+			[
+				"detail_js",
+				"src/dashboards/templates/dashboards/commissions/detail_js.html"
+			],
+			[
+				"inbox",
+				"src/dashboards/templates/dashboards/commissions/inbox_js.html"
+			],
+			[
+				"comm view ",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"comm admin",
+				"src/commissions/admin.py"
+			],
+			[
+				"comm modls",
+				"src/commissions/models.py"
+			],
+			[
+				"comm api v1",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"comm se base",
+				"src/commissions/api/v1/serializers/base.py"
+			],
+			[
+				"commmodels",
+				"src/commissions/models.py"
+			],
+			[
+				"comm.htl",
+				"src/dashboards/templates/dashboards/commissions/search.html"
+			],
+			[
+				"comm detail",
+				"src/dashboards/templates/dashboards/commissions/detail_js.html"
+			],
+			[
+				"comm view api ",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"trigger",
+				"src/commissions/management/commands/trigger_report.py"
+			],
+			[
+				"regee",
+				"src/commissions/management/commands/regenerate_commission.py"
+			],
+			[
+				"regener",
+				"src/commissions/management/commands/regenerate_commission.py"
+			],
+			[
+				"comm mdoels",
+				"src/commissions/models.py"
+			],
+			[
+				"comm test ",
+				"src/commissions/tests.py"
+			],
+			[
+				"v2 urls",
+				"src/policies/api/v2/urls.py"
+			],
+			[
+				"comm api urls",
+				"src/commissions/api/v1/urls.py"
+			],
+			[
+				"comm admi",
+				"src/commissions/admin.py"
+			],
+			[
+				"comm mange",
+				"src/commissions/managers.py"
+			],
+			[
+				"par manger",
+				"src/partners/managers.py"
+			],
+			[
+				"par manage",
+				"src/partners/managers.py"
+			],
+			[
+				"part api v1 urls",
+				"src/partners/api/v1/urls.py"
+			],
+			[
+				"partners api v1 views",
+				"src/partners/api/v1/views/base.py"
+			],
+			[
+				"comm tas",
+				"src/commissions/tasks.py"
+			],
+			[
+				"comm mo",
+				"src/commissions/models.py"
+			],
+			[
+				"comm ser base",
+				"src/commissions/api/v1/serializers/base.py"
+			],
+			[
+				"comm task.py",
+				"src/commissions/tasks.py"
+			],
+			[
+				"omm test",
+				"src/commissions/tests.py"
+			],
+			[
+				"com ",
+				"src/commissions/models.py"
+			],
+			[
+				"mail api views",
+				"src/mails/api/v1/views.py"
+			],
+			[
+				"mail urls",
+				"src/dashboards/mails/urls.py"
+			],
+			[
+				"envir",
+				"src/wizards/purbeck/static/src/environments/environment.ts"
+			],
+			[
+				"envi",
+				"src/wizards/purbeck/static/src/environments/environment.ts"
+			],
+			[
+				"v1/views/contracts",
+				"src/policies/api/v1/views/contracts.py"
+			],
+			[
+				"dah views",
+				"src/dashboards/views.py"
+			],
+			[
+				"environme",
+				"src/wizards/purbeck/static/src/environments/environment.ts"
+			],
+			[
+				"purbeck env",
+				"src/wizards/purbeck/static/src/environments/environment.ts"
+			],
+			[
+				"comm manher",
+				"src/policies/management/commands/policy_term_patch_base_on_renewal_type.py"
+			],
+			[
+				"policiesm odles",
+				"src/policies/models.py"
+			],
+			[
+				"com urls",
+				"src/dashboards/commissions/urls.py"
+			],
+			[
+				"policies modes",
+				"src/policies/models.py"
+			],
+			[
+				"com api urls",
+				"src/commissions/api/v1/urls.py"
+			],
+			[
+				"core api view",
+				"src/core/api/views.py"
+			],
+			[
+				"par api v2 ",
+				"src/partners/api/v2/views/partners.py"
+			],
+			[
+				"par api view",
+				"src/partners/api/v2/views/partners.py"
+			],
+			[
+				"polic models",
+				"src/policies/models.py"
+			],
+			[
+				"prodt",
+				"requirements/prod.txt"
+			],
+			[
+				"comm 0020",
+				"src/commissions/migrations/0020_auto_20181004_0130.py"
+			],
+			[
+				"com test ",
+				"src/commissions/tests.py"
+			],
+			[
+				"rege comm",
+				"src/commissions/management/commands/regenerate_commission.py"
+			],
+			[
+				"paar manager",
+				"src/partners/managers.py"
+			],
+			[
+				"poli 0036",
+				"src/policies/migrations/0036_auto_20180926_0254.py"
+			],
+			[
+				"initial setting",
+				"src/commissions/management/commands/initial_commission_settings.py"
+			],
+			[
+				"comm api views",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"art forms sales_",
+				"src/dashboards/partners/forms/sales_unit.py"
+			],
+			[
+				"part models",
+				"src/partners/models.py"
+			],
+			[
+				"inbox_js.",
+				"src/dashboards/templates/dashboards/commissions/inbox_js.html"
+			],
+			[
+				"com api vv1 iv",
+				"src/commissions/api/v1/views.py"
+			],
+			[
+				"dashboard comm urls",
+				"src/dashboards/commissions/urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Project/version7.sublime-project"
+			],
+			[
+				"ra",
+				"~/Project/rating.sublime-project"
+			],
+			[
+				"rating",
+				"~/Project/rating.sublime-project"
+			],
+			[
+				"ver",
+				"~/Project/version6.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
