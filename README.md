@@ -8,9 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Before starting, make sure you have install Compose with below link
-
-* Compose - https://docs.docker.com/compose/install/#prerequisites
+Before starting, make sure you have install [Compose](https://docs.docker.com/compose/install/#prerequisites) with below link
 
 ## Running the tests
 
@@ -20,44 +18,75 @@ To run the automated test:-
 
 Automated test case for API includes below :-
 
-* test_upload_document - upload a document
-* test_rud_document - retrieve, update or delete a document
-* test_search_document - search document with tags
+* **test_upload_document** - upload a document
+* **test_rud_document** - retrieve, update or delete a document
+* **test_search_document** - search document with tags
 
 ## Use Postman to test:-
 
-In order to use Postman app to test, please download the app from :-
-https://www.getpostman.com/apps
+In order to use [Postman](https://www.getpostman.com/apps) app to test, please download the app from :-
 
 Some initial data is loaded for testing purposes and you can use it from below :-
 
-confidentiality
-`topsecret`, `secret`, `confidential`, `private`, `internal`, `public`
+##### confidentiality
+```
+topsecret, secret, confidential, private, internal, public
+```
 
-language
-`af`, `an`, `ar`, `ast`, `be`, `bg`, `bn`, `br`, `ca`, `cs`, `cy`, `da`, `de`, `el`, `en`, `es`, `et`, `eu`, `fa`,
-`fi`, `fr`, `ga`, `gl`, `he`, `hi`, `hr`, `ht`, `hu`, `id`, `is`, `it`, `ja`, `ko`, `lt`, `lv`, `mk`, `ml`, `ms`,
-`mt`, `ne`, `nl`, `no`, `oc`, `pl`, `pt`, `ro`, `ru`, `sk`, `sl`, `so`, `sq`, `sv`, `sw`, `th`, `tl`, `tr`, `uk`,
-`ur`, `vi`, `zh-cn`, `zh-tw`
+##### language
+```
+af, an, ar, ast, be, bg, bn, br, ca, cs, cy, da, de, el, en, es, et, eu, fa,
+fi, fr, ga, gl, he, hi, hr, ht, hu, id, is, it, ja, ko, lt, lv, mk, ml, ms,
+mt, ne, nl, no, oc, pl, pt, ro, ru, sk, sl, so, sq, sv, sw, th, tl, tr, uk,
+ur, vi, zh-cn, zh-tw
+```
 
-document_type
-`email`, `excel`, `others`, `pdf`, `powerpoint`, `word`
+##### document_type
+```
+email, excel, others, pdf, powerpoint, word
+```
 
-user
+##### user
 `admin`
 
-three endpoints :-
+##### endpoints
 
 * http://127.0.0.1:8000/documents/upload/
+  - PUT
+    - Example 1
+        ```
+        {
+            "confidentiality": "topsecret",
+            "language": "en",
+            "document_type": "pdf"
+            "user": "admin",
+            "tags": ["tax", "audit", "2018"]
+            "file": <attachfile>,
+        }
+        ```
 
 * http://127.0.0.1:8000/documents/<id>
+  - GET
+  - PATCH
+  - PUT
+  - DELETE
 
 * http://127.0.0.1:8000/documents/search/
+  - POST
+    - Example 1
+        ```
+        {
+            "keywords": "2018, word",
+        }
+        ```
 
-
-```
-Give an example
-```
+    - Example 2
+        ```
+        {
+            "keywords": "2018",
+            "document_type": "pdf"
+        }
+        ```
 
 ## Deployment
 
