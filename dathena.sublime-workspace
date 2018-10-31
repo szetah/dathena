@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"REDI",
+				"REDIS_DB\tstatement"
+			],
+			[
+				"REDIS",
+				"REDIS_PORT\tstatement"
+			],
+			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"docu",
+				"document_type"
+			],
+			[
+				"upda",
+				"update_context\tparam"
+			],
+			[
+				"doc",
+				"document_type"
+			],
+			[
+				"test",
+				"test_data\tstatement"
+			],
+			[
+				"re",
+				"response\tstatement"
+			],
+			[
+				"q",
+				"q_objects\tstatement"
+			],
+			[
+				"sear",
+				"search_dict\tstatement"
+			],
+			[
+				"shor",
+				"short_name_tag"
+			],
+			[
+				"to_",
+				"to_internal_value"
+			],
+			[
+				"Tag",
+				"TagSerializer\tclass"
+			],
+			[
+				"mode",
+				"ModelSerializer"
+			],
+			[
 				"Do",
 				"Document\tclass"
 			],
@@ -164,10 +220,6 @@
 				"recurrence_frequency\tstatement"
 			],
 			[
-				"re",
-				"recurrence_start"
-			],
-			[
 				"recu",
 				"recurrence_count"
 			],
@@ -234,10 +286,6 @@
 			[
 				"Commis",
 				"Commission\tclass"
-			],
-			[
-				"upda",
-				"update_status\tstatement"
 			],
 			[
 				"STA",
@@ -466,54 +514,6 @@
 			[
 				"COMM",
 				"COMMISSION_CANCEL\tstatement"
-			],
-			[
-				"POl",
-				"PolicyVersion\tclass"
-			],
-			[
-				"activ",
-				"activation_function\tstatement"
-			],
-			[
-				"parn",
-				"partners"
-			],
-			[
-				"up",
-				"update"
-			],
-			[
-				"update",
-				"update_fields"
-			],
-			[
-				"udpat",
-				"update_fields"
-			],
-			[
-				"las",
-				"last_contract\tstatement"
-			],
-			[
-				"Polic",
-				"PolicyVersion\tclass"
-			],
-			[
-				"la",
-				"latest_quotation"
-			],
-			[
-				"conten",
-				"content_object\tparam"
-			],
-			[
-				"amou",
-				"amount_field\tstatement"
-			],
-			[
-				"Poli",
-				"PolicyVersion\tclass"
 			]
 		]
 	},
@@ -556,11 +556,31 @@
 				"File: Delete"
 			],
 			[
+				"fe",
+				"File: Delete"
+			],
+			[
+				"fo",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fiel",
+				"File: Delete"
+			],
+			[
 				"fi",
 				"File: Delete"
 			],
 			[
+				"f",
+				"File: Delete"
+			],
+			[
 				"file ",
+				"File: Delete"
+			],
+			[
+				"file de",
 				"File: Delete"
 			],
 			[
@@ -570,10 +590,6 @@
 			[
 				"gi",
 				"Git: Blame"
-			],
-			[
-				"file de",
-				"File: Delete"
 			],
 			[
 				"git ",
@@ -650,35 +666,40 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/ryanho/Project/dathena",
-		"/Users/ryanho/Project/dathena/dathena",
-		"/Users/ryanho/Project/dathena/dathena/__pycache__",
-		"/Users/ryanho/Project/dathena/documents"
-	],
 	"file_history":
 	[
-		"/Users/ryanho/Project/dathena/dathena/urls.py",
-		"/Users/ryanho/Project/dathena/documents/tasks.py",
-		"/Users/ryanho/Project/dathena/documents/models.py",
-		"/Users/ryanho/Project/dathena/documents/api/serializers.py",
+		"/Users/ryanho/Project/dathena/requirements.txt",
 		"/Users/ryanho/Project/dathena/dathena/celery.py",
-		"/Users/ryanho/Project/dathena/docker-compose.yml",
-		"/Users/ryanho/Project/dathena/run_celery.sh",
-		"/Users/ryanho/Project/dathena/documents/fixtures/document_initial_data.json",
-		"/Users/ryanho/Project/dathena/dathena/settings.py",
-		"/Users/ryanho/Project/dathena/dathena/__init__.py",
-		"/Users/ryanho/Project/dathena/documents/api/views.py",
-		"/Users/ryanho/Project/dathena/documents/api/urls.py",
-		"/Users/ryanho/Project/dathena/documents/admin.py",
+		"/Users/ryanho/Project/dathena/documents/models.py",
 		"/Users/ryanho/Project/dathena/documents/migrations/0001_initial.py",
-		"/Users/ryanho/Project/dathena/run_django.sh",
+		"/Users/ryanho/Project/dathena/dathena/settings.py",
+		"/Users/ryanho/Project/dathena/README.md",
+		"/Users/ryanho/Project/dathena/docker-compose.yml",
 		"/Users/ryanho/Project/dathena/Dockerfile",
+		"/Users/ryanho/Project/dathena/dev.env",
+		"/Users/ryanho/Project/dathena/celerybeat.pid",
+		"/usr/local/var/pyenv/versions/dathena/lib/python3.6/site-packages/celery/bin/base.py",
+		"/Users/ryanho/Project/dathena/run_django.sh",
+		"/Users/ryanho/Project/dathena/documents/api/tests.py",
+		"/Users/ryanho/Project/dathena/documents/api/serializers.py",
+		"/Users/ryanho/Project/dathena/documents/api/views.py",
+		"/Users/ryanho/Project/dathena/documents/fixtures/document_initial_data.json",
+		"/Users/ryanho/Project/dathena/documents/api/urls.py",
+		"/usr/local/var/pyenv/versions/dathena/lib/python3.6/site-packages/django/conf/global_settings.py",
+		"/Users/ryanho/Project/dathena/run_celery_beat.sh",
+		"/Users/ryanho/Project/dathena/documents/views.py",
+		"/Users/ryanho/Project/dathena/run_celery.sh",
+		"/Users/ryanho/Project/dathena/documents/admin.py",
+		"/Users/ryanho/Project/dathena/taggit_extension/api/serializers.py",
+		"/usr/local/var/pyenv/versions/dathena/lib/python3.6/site-packages/taggit/models.py",
+		"/usr/local/var/pyenv/versions/dathena/lib/python3.5/site-packages/",
+		"/Users/ryanho/Project/dathena/documents/migrations/0002_document_tags.py",
+		"/Users/ryanho/Project/dathena/dathena/__init__.py",
+		"/Users/ryanho/Project/dathena/documents/tasks.py",
+		"/Users/ryanho/Project/dathena/dathena/urls.py",
 		"/Users/ryanho/Project/dathena/documents/apps.py",
 		"/Users/ryanho/Project/dathena/documents/fixtures/language_labels.json",
 		"/Users/ryanho/Project/dathena/documents/fixtures/doctype_labels.json",
-		"/Users/ryanho/Project/dathena/requirements.txt",
 		"/Users/ryanho/Project/dathena/src/requirements.txt",
 		"/Users/ryanho/Downloads/Technical test - Python - 20181015/doctype_labels.json",
 		"/Users/ryanho/Downloads/Technical test - Python - 20181015/doctype_data.json",
@@ -774,29 +795,20 @@
 		"/Users/ryanho/Project/insidious/InSurance/src/core/testing_tools/api/mixins.py",
 		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/versions.py",
 		"/Users/ryanho/Project/insidious/InSurance/src/policies/api/v1/serializers/contracts.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v1/views/duplicate_check.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/activities/api/v1/serializers/base.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/activities/api/v1/serializers/notes.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/commissions/templatetags/commission_tags.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/policies/management/commands/update_incomplete_orders_sales_accounts.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0014_auto_20180823_0815.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0013_auto_20180823_0810.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/commissions/migrations/0010_auto_20180716_0322.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/partners/migrations/0009_businesspartnerrole_is_active.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/partners/management/commands/initial_data_for_partners.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v1/serializers/base.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/insurance/settings.py",
-		"/Users/ryanho/Project/insidious/InSurance/src/submodules/numbering/utils.py"
+		"/Users/ryanho/Project/insidious/InSurance/src/partners/api/v1/views/duplicate_check.py"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
 		"height": 101.0,
 		"where_history":
 		[
+			"<open folders>, /usr/local/var/pyenv/versions/dathena/lib/python3.6/site-packages/,-*.js, -*.css",
+			"<open folders>, /usr/local/var/pyenv/versions/dathena/lib/python3.5/site-packages/,-*.js, -*.css",
+			"<open folders>",
 			""
 		]
 	},
@@ -805,6 +817,86 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"5432",
+			"- db",
+			"Is the server running on host",
+			"''",
+			"`",
+			"\"",
+			"documents.documenttype\",",
+			"\"",
+			"documents.language",
+			"\"model\": \"documents.confidentiality\",",
+			"def test_",
+			"upload",
+			"DATABASE_HOST",
+			"/{}",
+			"REDIS_HOST",
+			"CELERY_BROKER_URL",
+			"6379/0",
+			"localhost",
+			"redis",
+			"127",
+			"localhost",
+			"DATABASE_HOST",
+			"redis",
+			"dathena",
+			"==",
+			"print(response.data)",
+			"'",
+			"import pdb",
+			"__in",
+			"language",
+			"response = self.client.",
+			"print(response.data)",
+			", ",
+			"this_document",
+			"reverse",
+			"self.dummy_file",
+			"'file': self.dummy_file",
+			"'file': self.dummy_file,",
+			"response.data",
+			"405",
+			"item",
+			"self.queryset.filter(",
+			"self.request.data.get(",
+			"favicon.ico",
+			"q_objects",
+			"q_object",
+			"self.request.data",
+			"__short_name",
+			"confidentiality__short_name",
+			"paginate_queryset",
+			"confidentiality",
+			"127.",
+			"local               ",
+			"to_representation",
+			"to_internal_value",
+			"serializer_class = ",
+			"TaggedItemBase",
+			"Tag",
+			"TaggedItem",
+			"t",
+			"TaggableManager",
+			"- rabbit",
+			"print('",
+			"()",
+			"# @app.task",
+			"count_docs",
+			"rabbiutmq",
+			".delay",
+			"proj",
+			"count_total_docs",
+			"@app.task",
+			"@task()",
+			"def ",
+			"@periodic_task(",
+			"@periodic_task(\n    run_every=timedelta(seconds=30),\n    name='count_confidentiality',\n)",
+			"run_every=(crontab(minute='1')),",
+			"COUNT_PERIOD_TIME_MINUTES",
+			"solarsc",
+			"Celery",
+			"pip install",
 			"broker_url",
 			"5672",
 			"autodiscover_tasks",
@@ -852,38 +944,7 @@
 			" unique=True",
 			", unique=True",
 			"top se",
-			"\"authority_level\": ",
-			"django",
-			"short_name",
-			"\"short_name\": ",
-			"\"name\": ",
-			"\"name\":",
-			"\"name\": ",
-			"\"name\"",
-			"\"id\": ",
-			"\"id\": \"1\",",
-			"\"name\":",
-			"auths",
-			"./",
-			"python3",
-			" = models",
-			"model = ",
-			"03.05.2018",
-			"model = ",
-			"= models.",
-			"models.",
-			" = ",
-			"(models.Model)",
-			"class ",
-			" = ",
-			"Confidentiality",
-			"confidentiality",
-			"confidentiality = ",
-			"FileUploadParser",
-			"Confidentiality",
-			", ",
-			"web",
-			"code"
+			"\"authority_level\": "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -891,6 +952,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"docker volume rm "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -963,6 +1025,34 @@
 		"selected_items":
 		[
 			[
+				"settin",
+				"dathena/settings.py"
+			],
+			[
+				"setting",
+				"dathena/settings.py"
+			],
+			[
+				"do models",
+				"documents/models.py"
+			],
+			[
+				"ettings",
+				"dathena/settings.py"
+			],
+			[
+				"setings",
+				"dathena/settings.py"
+			],
+			[
+				"sett",
+				"dathena/settings.py"
+			],
+			[
+				"settings",
+				"dathena/settings.py"
+			],
+			[
 				"document migrat",
 				"documents/migrations/0001_initial.py"
 			],
@@ -971,20 +1061,8 @@
 				"dathena/settings.py"
 			],
 			[
-				"settings",
-				"dathena/settings.py"
-			],
-			[
-				"do models",
-				"documents/models.py"
-			],
-			[
 				"run dj",
 				"run_django.sh"
-			],
-			[
-				"setting",
-				"dathena/settings.py"
 			],
 			[
 				"prod",
@@ -1457,22 +1535,6 @@
 			[
 				"art forms sales_",
 				"src/dashboards/partners/forms/sales_unit.py"
-			],
-			[
-				"part models",
-				"src/partners/models.py"
-			],
-			[
-				"inbox_js.",
-				"src/dashboards/templates/dashboards/commissions/inbox_js.html"
-			],
-			[
-				"com api vv1 iv",
-				"src/commissions/api/v1/views.py"
-			],
-			[
-				"dashboard comm urls",
-				"src/dashboards/commissions/urls.py"
 			]
 		],
 		"width": 0.0

@@ -26,7 +26,7 @@ SECRET_KEY = 'ua0scg_bi&e0d5p3qce&yp@=t&43h*!*9mp1@j9ymbwtcrx+zu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', ]
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -86,23 +86,8 @@ DATABASES = {
         'PASSWORD': 'postgres',
         'HOST': 'db',
         'PORT': 5432,
-        # 'ATOMIC_REQUESTS': os.environ.get('DATABASE_ATOMIC_REQUESTS', True),
     }
 }
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': os.environ.get(
-#             'DATABASE_ENGINE', 'django.db.backends.postgresql'
-#         ),
-#         'NAME': os.environ.get('DATABASE_NAME', 'dathena'),
-#         'USER': os.environ.get('DATABASE_USER', 'ryanho'),
-#         'PASSWORD': os.environ.get('DATABASE_PASSWORD', 'password'),
-#         'HOST': os.environ.get('DATABASE_HOST', 'localhost'),
-#         'PORT': os.environ.get('DATABASE_PORT', '5432'),
-#         # 'ATOMIC_REQUESTS': os.environ.get('DATABASE_ATOMIC_REQUESTS', True),
-#     }
-# }
 
 # Password validation
 # https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators
@@ -142,19 +127,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-# Redis
-# https://redis.io/
-
-REDIS_PORT = 6379
-REDIS_DB = 0
-REDIS_HOST = os.environ.get('REDIS_PORT_6379_TCP_ADDR', 'redis')
-
-
 # Celery
 # http://docs.celeryproject.org/en/latest/
 
-CELERY_BROKER_URL = 'redis://{}:{}/{}'.format(REDIS_HOST, REDIS_PORT, REDIS_DB)
-CELERY_RESULT_BACKEND = 'redis://{}:{}/{}'.format(REDIS_HOST, REDIS_PORT, REDIS_DB)
+CELERY_BROKER_URL = 'redis://redis:6379'
+CELERY_RESULT_BACKEND = 'redis://redis:6379'
 CELERY_ACCEPT_CONTENT = ['application/json']
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_SERIALIZER = 'json'
@@ -162,6 +139,6 @@ CELERY_RESULT_SERIALIZER = 'json'
 CELERY_BEAT_SCHEDULE = {
     'count_docs': {
         'task': 'documents.tasks.count_total_docs',
-        'schedule': timedelta(seconds=30)
+        'schedule': timedelta(minutes=60)
     },
 }
